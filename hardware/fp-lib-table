@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MCU_Microchip_ATtiny)(type KiCad)(uri ${KIPRJMOD}/Footprints/MCU_Microchip_ATtiny)(options "")(descr ""))
+  (lib (name Connector)(type KiCad)(uri ${KIPRJMOD}/Footprints/Connector)(options "")(descr ""))
+)

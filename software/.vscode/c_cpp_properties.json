@@ -1,0 +1,70 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/include",
+                "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/src",
+                "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/lib/AppController",
+                "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/lib/VolumeController",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/lib/ConfigManager",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/.pio/libdeps/ATmega328P/IRMP/src",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/Optiboot_flasher/src",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/include",
+                    "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/src",
+                    "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/lib/AppController",
+                    "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/lib/VolumeController",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                    "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/lib/ConfigManager",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                    "/Users/thomafis/Documents/PlatformIO/Projects/VolumeRemoteControl/software/.pio/libdeps/ATmega328P/IRMP/src",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/Optiboot_flasher/src",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                    "/Users/thomafis/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "ARDUINO_AVR_ATmega328P",
+                "F_CPU=8000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/Users/thomafis/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
