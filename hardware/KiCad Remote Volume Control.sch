@@ -710,7 +710,7 @@ Connection ~ 4800 2000
 Wire Wire Line
 	4650 2000 4800 2000
 $Comp
-L Project:PT2257 U3
+L KiCad-Remote-Volume-Control-rescue:PT2257-Project U3
 U 1 1 605F73F9
 P 8950 2300
 F 0 "U3" H 8700 2650 50  0000 C CNN

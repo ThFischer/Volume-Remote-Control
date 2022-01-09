@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name Project)(type Legacy)(uri "/Users/thomas/Documents/DATA/ELECTRONIC/Volume Remote Control/hardware/PT2257/Libraries/Audio.lib")(options "")(descr ""))
+  (lib (name Audio)(type Legacy)(uri ${KIPRJMOD}/Libraries/Audio.lib)(options "")(descr ""))
+  (lib (name KiCad-Remote-Volume-Control-rescue)(type Legacy)(uri "${KIPRJMOD}/KiCad Remote Volume Control-rescue.lib")(options "")(descr ""))
 )
